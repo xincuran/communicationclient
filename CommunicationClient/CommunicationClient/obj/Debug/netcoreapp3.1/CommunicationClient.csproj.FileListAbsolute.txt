@@ -1,0 +1,11 @@
+F:\CommBasic\CommunicationClient\CommunicationClient\bin\Debug\netcoreapp3.1\CommunicationClient.exe
+F:\CommBasic\CommunicationClient\CommunicationClient\bin\Debug\netcoreapp3.1\CommunicationClient.deps.json
+F:\CommBasic\CommunicationClient\CommunicationClient\bin\Debug\netcoreapp3.1\CommunicationClient.runtimeconfig.json
+F:\CommBasic\CommunicationClient\CommunicationClient\bin\Debug\netcoreapp3.1\CommunicationClient.runtimeconfig.dev.json
+F:\CommBasic\CommunicationClient\CommunicationClient\bin\Debug\netcoreapp3.1\CommunicationClient.dll
+F:\CommBasic\CommunicationClient\CommunicationClient\bin\Debug\netcoreapp3.1\CommunicationClient.pdb
+F:\CommBasic\CommunicationClient\CommunicationClient\obj\Debug\netcoreapp3.1\CommunicationClient.csprojAssemblyReference.cache
+F:\CommBasic\CommunicationClient\CommunicationClient\obj\Debug\netcoreapp3.1\CommunicationClient.AssemblyInfoInputs.cache
+F:\CommBasic\CommunicationClient\CommunicationClient\obj\Debug\netcoreapp3.1\CommunicationClient.AssemblyInfo.cs
+F:\CommBasic\CommunicationClient\CommunicationClient\obj\Debug\netcoreapp3.1\CommunicationClient.dll
+F:\CommBasic\CommunicationClient\CommunicationClient\obj\Debug\netcoreapp3.1\CommunicationClient.pdb
